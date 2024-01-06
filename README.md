@@ -3,7 +3,7 @@ EC2 Host Deployed with AWS CLI
 
 - [EC2 Host with Docker](https://github.com/jonhurtt/ec2-docker-host)
     - [EC2 Host with Docker for Registry Scanning](https://github.com/jonhurtt/ec2-registry-scanner)
-    - [EC2 Host with Docker and Vulnerables Apps](https://github.com/jonhurtt/code-to-cloud-demo)
+    - [EC2 Host with Docker and Vulnerables Apps (Code to Cloud Demo)](https://github.com/jonhurtt/code-to-cloud-demo)
 ## Process
 ```
 cd terraform/
