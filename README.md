@@ -13,6 +13,7 @@ cd terraform/
 ```
 ./_build.sh
 ```
+
 ## Validate Sucessful Execuation of Install Script via SSH
 ```
 more results.txt
