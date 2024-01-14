@@ -6,12 +6,12 @@ sudo apt install curl wget unzip -y
 sudo curl "https://awscli.amazonaws.com/awscli-exe-linux-x86_64.zip" -o "awscliv2.zip"
 sudo unzip awscliv2.zip
 sudo ./aws/install
-touch ~/results.txt
-docker --version >> ~/results.txt
-aws --version >> ~/results.txt
+touch ~/script_results.txt
+docker --version >> ~/script_results.txt
+aws --version >> ~/script_results.txt
 
 
 #Installing JQ 
 sudo apt install jq -y
 
-echo "install_script.sh completed" >> ~/results.txt
+echo "install_script.sh completed" >> ~/script_results.txt
